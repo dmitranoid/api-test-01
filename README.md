@@ -15,11 +15,11 @@
 Вводные данные:
 Сущность: Item
 Поля сущности:
-id - int автоинкремент
-name - char(255)
-phone - char(15)
-key - char(25) not null
-created_at - datetime - дата создания элемента
-updated_at - datetime - дата обновления элемента
+* id - int автоинкремент
+* name - char(255)
+* phone - char(15)
+* key - char(25) not null
+* created_at - datetime - дата создания элемента
+* updated_at - datetime - дата обновления элемента
 
 Стек технологий: PHP8(без использования фреймворков)
